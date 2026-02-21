@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "極まる",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-21T15:44:02.936358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "極まる",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/01_極まる_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "極まる",
+      "artist": "Tokyo Jihen",
+      "has_synced": false,
+      "path": "select/02_極まる_Tokyo_Jihen.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "極まる",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/03_極まる_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "極まる",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_極まる_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "極まる",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_極まる_東京事変.txt"
+    }
+  ]
+}
